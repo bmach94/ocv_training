@@ -6,3 +6,6 @@ TODO:
 
 1. Install conda
    https://docs.anaconda.com/free/miniconda/
+2. Activate conda
+  conda activate ocv
+   
